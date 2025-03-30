@@ -8,7 +8,7 @@ conda create -n yolo python=3.11
 
 ## 2. prepare env.
 ```
-pip install -r requirements.txt
+pip install -e .
 ```
 
 ## 3.Download the model.
