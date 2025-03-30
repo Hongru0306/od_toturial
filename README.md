@@ -52,3 +52,7 @@ if __name__ == '__main__':
 
 You can view this page: https://docs.ultralytics.com/modes/predict/#inference-arguments .  
 Or other [Docs](https://docs.ultralytics.com/zh#introduction).
+
+## TODO  
+Use the inference results (only person), and train a new detection model.  
+Show your training terminal line.
