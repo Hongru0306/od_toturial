@@ -12,6 +12,9 @@ pip install -r requirements.txt
 ```
 
 ## 3.Download the model.
+```
+https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11s.pt
+```
 
 ## 4.Inference the model.
 
