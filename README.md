@@ -42,7 +42,12 @@ if __name__ == '__main__':
                 )
 ```
 ## Analysis the inference results.
-**Task**: Only show the results whose class is "person".
+**Task**: Only show the results whose class is "person".  
 
-You can view this page: https://docs.ultralytics.com/modes/predict/#inference-arguments .
+**Before**:  
+![img](img/hd1189.jpg)  
+**After**:  
+![img](img/after.jpg)  
+
+You can view this page: https://docs.ultralytics.com/modes/predict/#inference-arguments .  
 Or other [Docs](https://docs.ultralytics.com/zh#introduction).
